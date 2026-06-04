@@ -1,0 +1,11 @@
+# KiCad lock files (created while project is open)
+~*.lck
+
+# KiCad auto-backups
+*-backups/
+
+# KiCad footprint cache (regenerated automatically)
+fp-info-cache
+
+# KiCad personal local settings (zoom level, view state, etc.)
+*.kicad_prl
