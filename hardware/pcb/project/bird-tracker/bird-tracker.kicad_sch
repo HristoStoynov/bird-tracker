@@ -1,0 +1,224 @@
+(kicad_sch
+	(version 20250114)
+	(generator "eeschema")
+	(generator_version "9.0")
+	(uuid "a4221183-89de-4d88-9062-326d06ff4f6b")
+	(paper "USLetter")
+	(lib_symbols)
+	(sheet
+		(at 107.95 39.37)
+		(size 12.7 10.16)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "1deecdb8-4e43-4c8e-a44f-baf3ccbd0bc5")
+		(property "Sheetname" "POWER"
+			(at 107.95 38.6584 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "power.kicad_sch"
+			(at 107.95 50.1146 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "bird-tracker"
+				(path "/a4221183-89de-4d88-9062-326d06ff4f6b"
+					(page "5")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 196.85 34.29)
+		(size 15.24 12.7)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "2595922b-78df-422e-952c-dd328ee94bc3")
+		(property "Sheetname" "GNSS"
+			(at 196.85 33.5784 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "gnss.kicad_sch"
+			(at 196.85 47.5746 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "bird-tracker"
+				(path "/a4221183-89de-4d88-9062-326d06ff4f6b"
+					(page "3")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 138.43 38.1)
+		(size 29.21 41.91)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "c980acee-2fec-49d3-873f-65272ebd2358")
+		(property "Sheetname" "MCU"
+			(at 138.43 37.3884 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "mcu.kicad_sch"
+			(at 138.43 80.5946 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "bird-tracker"
+				(path "/a4221183-89de-4d88-9062-326d06ff4f6b"
+					(page "2")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 86.36 81.28)
+		(size 40.64 36.83)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "ee5de07f-8801-4390-ac7d-2235d820b9a2")
+		(property "Sheetname" "Sensors"
+			(at 86.36 80.5684 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "Sensors.kicad_sch"
+			(at 86.36 118.6946 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "bird-tracker"
+				(path "/a4221183-89de-4d88-9062-326d06ff4f6b"
+					(page "6")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 223.52 71.12)
+		(size 12.7 15.24)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "f0f038b3-96f9-4cc3-af4e-fe21208e3f22")
+		(property "Sheetname" "SIM"
+			(at 223.52 70.4084 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "SIM.kicad_sch"
+			(at 223.52 86.9446 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "bird-tracker"
+				(path "/a4221183-89de-4d88-9062-326d06ff4f6b"
+					(page "4")
+				)
+			)
+		)
+	)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
+	(embedded_fonts no)
+)
