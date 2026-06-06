@@ -1,6 +1,9 @@
 # KiCad lock files (created while project is open)
 ~*.lck
 
+*auto_saved_files*
+*.kicad_sch-bak
+
 # KiCad auto-backups
 *-backups/
 
